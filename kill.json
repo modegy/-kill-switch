@@ -1,9 +1,9 @@
 {
   "app_enabled": true,
-  "min_version": 334,
+  "min_version": 333,
   "required_signature": "6544a340583badc79724b87782e02494dddda6b73d4931437209f34d9fc3c755",
   "certificate_pin": "eMzOFeEuKhMZgDTd8J1d9r4I7pyvgMkjH2i5PXAHeRA=",
-  "force_update": true,
+  "force_update": false,
   "action_url": "https://t.me/M_552",
   "message": {
     "enabled": false,
