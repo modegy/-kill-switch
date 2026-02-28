@@ -6,8 +6,8 @@
   "force_update": true,
   "action_url": "https://t.me/M_552",
   "message": {
-    "enabled": true,
-    "text": "ادفع الأول ياجحش❌️👌😂😂",
+    "enabled": false,
+    "text": "",
     "type": "toast"
   }
 }
