@@ -7,7 +7,7 @@
   "action_url": "https://t.me/M_552",
   "message": {
     "enabled": true,
-    "text": "مرحبآ بك يا ابو الهواوير 😂",
-    "type": "dialog"
+    "text": "مرحبآ يا ابو الهواره😂",
+    "type": "toast"
   }
 }
