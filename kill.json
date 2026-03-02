@@ -8,6 +8,6 @@
   "message": {
     "enabled": true,
     "text": "صباح الفل لما تصحي كلمني اشغلك النسخه 🚗😂",
-    "type": "toast"
+    "type": "dialog"
   }
 }
