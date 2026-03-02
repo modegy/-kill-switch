@@ -6,8 +6,8 @@
   "force_update": false,
   "action_url": "https://t.me/M_552",
   "message": {
-    "enabled": true,
-    "text": "صلي علي النبي يا حاج هواري🙂",
+    "enabled": false,
+    "text": "",
     "type": "toast"
   }
 }
