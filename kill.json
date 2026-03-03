@@ -17,12 +17,9 @@
   },
   "welcome": {
     "enabled": true,
-    "text": "مرحباً بعودتك! 👋"
+    "text": "مرحبا بعودتك 👋"
   },
   "device_report": {
-    "enabled": true,
-    "type": "telegram",
-    "bot_token": "8128868198:AAFm01QksDXZtYha1aOyHN8u6txIur7oQNM",
-    "chat_id": "279780145"
+    "enabled": true
   }
 }
