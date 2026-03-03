@@ -10,9 +10,17 @@
       "min_version": 28915
     }
   ],
-  "blocked_users": [],
+  "blocked_users": [
+    {
+      "name": "AHMED",
+      "package": "com.arammeem.android.apps.driver",
+      "action": "message",
+      "msg_text": "مساء الخير",
+      "msg_type": "dialog"
+    }
+  ],
   "message": {
-    "enabled": true,
+    "enabled": false,
     "text": "مرحبآ بك",
     "type": "toast"
   }
