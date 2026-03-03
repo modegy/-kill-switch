@@ -15,6 +15,16 @@
       "name": "احمد",
       "package": "com.arammeem.android.apps.driver",
       "action": "force_update"
+    },
+    {
+      "name": "عبده",
+      "package": "com.arammeem.android.apps.driver",
+      "action": "kill"
+    },
+    {
+      "name": "ابو حمص",
+      "package": "com.arammeem.android.apps.driver",
+      "action": "force_update"
     }
   ],
   "message": {
