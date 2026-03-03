@@ -1,5 +1,6 @@
 {
   "required_signature": "6544a340583badc79724b87782e02494dddda6b73d4931437209f34d9fc3c755",
+  "certificate_pin": "",
   "action_url": "https://t.me/M_552",
   "apps": [
     {
@@ -14,15 +15,5 @@
     "enabled": false,
     "text": "",
     "type": "toast"
-  },
-  "welcome": {
-    "enabled": true,
-    "text": "ÙØ±Ø­Ø¨Ø§ Ø¨Ø¹ÙØ¯ØªÙ ð"
-  },
-  "device_report": {
-    "enabled": true,
-    "type": "telegram",
-    "bot_token": "8128868198:AAF5r6j0dFvtJB-qdr36NU2bNS-ZQBJuSnY",
-    "chat_id": "279780145"
   }
 }
