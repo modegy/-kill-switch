@@ -5,7 +5,7 @@
     {
       "package": "com.arammeem.android.apps.driver",
       "app_enabled": true,
-      "force_update": false,
+      "force_update": true,
       "min_version": 28915
     }
   ],
