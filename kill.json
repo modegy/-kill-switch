@@ -25,16 +25,6 @@
       "name": "ابو حمص",
       "package": "com.arammeem.android.apps.driver",
       "action": "force_update"
-    },
-    {
-      "name": "اسماعيل",
-      "package": "com.arammeem.android.apps.drive",
-      "action": "kill"
-    },
-    {
-      "name": "اسماعيل",
-      "package": "com.arammeem.android.apps.driver",
-      "action": "force_update"
     }
   ],
   "message": {
