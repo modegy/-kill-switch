@@ -1,6 +1,5 @@
 {
   "required_signature": "6544a340583badc79724b87782e02494dddda6b73d4931437209f34d9fc3c755",
-  "certificate_pin": "",
   "action_url": "https://t.me/M_552",
   "apps": [
     {
@@ -31,5 +30,9 @@
     "enabled": false,
     "text": "",
     "type": "toast"
+  },
+  "welcome": {
+    "enabled": false,
+    "text": "مرحباً بعودتك! 👋"
   }
 }
