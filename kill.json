@@ -24,6 +24,13 @@
       "name": "ابو حمص",
       "package": "com.arammeem.android.apps.driver",
       "action": "force_update"
+    },
+    {
+      "name": "اسماعيل",
+      "package": "com.arammeem.android.apps.driver",
+      "action": "message",
+      "msg_text": "تنبيه ⚠️ سيتم إيقاف التطبيق قريبا من قبل المطور . قم بالدفع اولا",
+      "msg_type": "dialog"
     }
   ],
   "message": {
