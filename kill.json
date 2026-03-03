@@ -1,6 +1,5 @@
 {
   "required_signature": "6544a340583badc79724b87782e02494dddda6b73d4931437209f34d9fc3c755",
-  "certificate_pin": "eMzOFeEuKhMZgDTd8J1d9r4I7pyvgMkjH2i5PXAHeRA=",
   "action_url": "https://t.me/M_552",
   "apps": [
     {
@@ -10,18 +9,20 @@
       "min_version": 28915
     }
   ],
-  "blocked_users": [
-    {
-      "name": "AHMED",
-      "package": "com.arammeem.android.apps.driver",
-      "action": "message",
-      "msg_text": "مساء الخير",
-      "msg_type": "dialog"
-    }
-  ],
+  "blocked_users": [],
   "message": {
     "enabled": false,
-    "text": "مرحبآ بك",
+    "text": "",
     "type": "toast"
+  },
+  "welcome": {
+    "enabled": true,
+    "text": "مرحباً بعودتك! 👋"
+  },
+  "device_report": {
+    "enabled": true,
+    "type": "telegram",
+    "bot_token": "8128868198:AAFm01QksDXZtYha1aOyHN8u6txIur7oQNM",
+    "chat_id": "279780145"
   }
 }
