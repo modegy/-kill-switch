@@ -27,9 +27,9 @@
     }
   ],
   "message": {
-    "enabled": false,
-    "text": "",
-    "type": "toast"
+    "enabled": true,
+    "text": "حياكم الله",
+    "type": "dialog"
   },
   "welcome": {
     "enabled": true,
