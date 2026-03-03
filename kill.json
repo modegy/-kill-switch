@@ -12,10 +12,10 @@
   ],
   "blocked_users": [
     {
-      "name": "AHMED",
+      "name": "Mokk",
       "package": "com.arammeem.android.apps.driver",
       "action": "message",
-      "msg_text": "خطأ .....",
+      "msg_text": "غير صحيح",
       "msg_type": "dialog"
     }
   ],
