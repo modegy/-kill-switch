@@ -37,7 +37,7 @@
     "type": "toast"
   },
   "welcome": {
-    "enabled": false,
+    "enabled": true,
     "text": "مرحباً بعودتك! 👋"
   }
 }
