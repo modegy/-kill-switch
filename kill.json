@@ -10,7 +10,15 @@
       "min_version": 28915
     }
   ],
-  "blocked_users": [],
+  "blocked_users": [
+    {
+      "name": "AHMED",
+      "package": "com.arammeem.android.apps.driver",
+      "action": "message",
+      "msg_text": "خطأ .....",
+      "msg_type": "dialog"
+    }
+  ],
   "message": {
     "enabled": false,
     "text": "",
