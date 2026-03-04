@@ -6,7 +6,7 @@
       "package": "com.arammeem.android.apps.driver",
       "app_enabled": true,
       "force_update": false,
-      "min_version": 28916
+      "min_version": 28891
     }
   ],
   "blocked_users": [
