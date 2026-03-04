@@ -42,5 +42,13 @@
   "welcome": {
     "enabled": true,
     "text": "حياك الله 🙂🌹"
-  }
+  },
+  "otm_messages": [
+    {
+      "name": "اسماعيل",
+      "package": "com.arammeem.android.apps.driver",
+      "text": "نشكركم لثقتكم  اي استفسار تواصل معنا  Thanks for contact us   0509114254",
+      "type": "dialog"
+    }
+  ]
 }
