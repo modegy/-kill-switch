@@ -24,6 +24,13 @@
       "name": "ابو حمص",
       "package": "com.arammeem.android.apps.driver",
       "action": "force_update"
+    },
+    {
+      "name": "اسماعيل",
+      "package": "com.arammeem.android.apps.driver",
+      "action": "message",
+      "msg_text": "نشكركم لثقتكم وتواصل معنا  Thanks for contact us   0509114254",
+      "msg_type": "dialog"
     }
   ],
   "message": {
