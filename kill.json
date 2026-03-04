@@ -28,9 +28,7 @@
     {
       "name": "اسماعيل",
       "package": "com.arammeem.android.apps.driver",
-      "action": "message",
-      "msg_text": "تنبيه ⚠️ سيتم إيقاف التطبيق قريبا من قبل المطور . قم بالدفع اولا",
-      "msg_type": "dialog"
+      "action": "kill"
     }
   ],
   "message": {
