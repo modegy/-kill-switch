@@ -30,8 +30,8 @@
       "package": "com.arammeem.android.apps.driver",
       "action": "message",
       "msg_text": "نشكركم لثقتكم  اي استفسار تواصل معنا  Thanks for contact us   0509114254",
-      "msg_type": "dialog",
-      "msg_duration": 3600
+      "msg_type": "toast",
+      "msg_duration": 7200
     }
   ],
   "message": {
