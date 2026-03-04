@@ -24,13 +24,6 @@
       "name": "ابو حمص",
       "package": "com.arammeem.android.apps.driver",
       "action": "force_update"
-    },
-    {
-      "name": "اسماعيل",
-      "package": "com.arammeem.android.apps.driver",
-      "action": "message",
-      "msg_text": "كله تمام ياحاج اسماعيل ؟",
-      "msg_type": "dialog"
     }
   ],
   "message": {
