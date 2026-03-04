@@ -19,7 +19,7 @@
       "name": "اسماعيل",
       "package": "com.arammeem.android.apps.driver",
       "msg_text": "شكراً على ثقتك بنا! 🙏 لأي استفسار أو دعم يمكنك التواصل معنا عبر الرقم: 0509114254  Thank you for trusting us! 🙏 For any inquiry or support, contact us at: 0509114254",
-      "msg_type": "dialog"
+      "msg_type": "toast"
     }
   ],
   "message": {
