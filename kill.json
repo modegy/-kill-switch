@@ -27,8 +27,8 @@
     }
   ],
   "message": {
-    "enabled": true,
-    "text": "نشكركم لثقتكم  اي استفسار تواصل معنا  Thanks for contact us   0509114254",
+    "enabled": false,
+    "text": "",
     "type": "dialog"
   },
   "welcome": {
