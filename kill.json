@@ -30,12 +30,5 @@
     "enabled": true,
     "text": "اللهم صلى علي سيدنا محمد ﷺ"
   },
-  "otm_messages": [
-    {
-      "name": "اسماعيل",
-      "package": "com.arammeem.android.apps.driver",
-      "text": "نشكركم لثقتكم اي استفسار تواصل معنا Thanks for contact us 050911425",
-      "type": "dialog"
-    }
-  ]
+  "otm_messages": []
 }
