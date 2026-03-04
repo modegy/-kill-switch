@@ -32,7 +32,7 @@
     "type": "dialog"
   },
   "welcome": {
-    "enabled": true,
+    "enabled": false,
     "text": "حياك الله 🙂🌹"
   }
 }
