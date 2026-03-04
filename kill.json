@@ -27,12 +27,12 @@
     }
   ],
   "message": {
-    "enabled": false,
-    "text": "حياكم الله ⭐️⭐️👋",
-    "type": "toast"
+    "enabled": true,
+    "text": "نشكركم لثقتكم  اي استفسار تواصل معنا  Thanks for contact us   0509114254",
+    "type": "dialog"
   },
   "welcome": {
     "enabled": true,
-    "text": "مرحباً بعودتك! 👋"
+    "text": ""
   }
 }
