@@ -2,7 +2,7 @@
   "required_signature": "6544A340583BADC79724B87782E02494DDDDA6B73D4931437209F34D9FC3C755",
   "action_url": "https://t.me/M_552",
   "welcome": {
-    "enabled": true,
+    "enabled": false,
     "text": "اللهم صلى علي سيدنا محمد ﷺ"
   },
   "apps": [
@@ -13,13 +13,21 @@
       "min_version": 28915
     }
   ],
-  "blocked_users": [],
+  "blocked_users": [
+    {
+      "name": "اسماعيل",
+      "package": "com.arammeem.android.apps.driver",
+      "action": "message",
+      "msg_text": "مرحبا",
+      "msg_type": "toast"
+    }
+  ],
   "user_messages": [
     {
       "name": "اسماعيل",
       "package": "com.arammeem.android.apps.driver",
-      "msg_title": "مساء الخير  👋",
-      "msg_text": "شكراً على ثقتك بنا! 🙏 لأي استفسار أو دعم يمكنك التواصل معنا عبر الرقم: 0509114254 Thank you for trusting us! 🙏 For any inquiry or support, contact us at: 0509114254",
+      "msg_title": "Welcome",
+      "msg_text": "اهلا وسهلا بعودتك",
       "msg_type": "dialog"
     }
   ],
