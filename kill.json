@@ -13,13 +13,7 @@
       "min_version": 28915
     }
   ],
-  "blocked_users": [
-    {
-      "name": "السوري",
-      "package": "com.arammeem.android.apps.driver",
-      "action": "force_update"
-    }
-  ],
+  "blocked_users": [],
   "user_messages": [],
   "message": {
     "enabled": false,
