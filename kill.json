@@ -15,11 +15,6 @@
   ],
   "blocked_users": [
     {
-      "name": "اسماعيل",
-      "package": "com.arammeem.android.apps.driver",
-      "action": "force_update"
-    },
-    {
       "name": "السوري",
       "package": "com.arammeem.android.apps.driver",
       "action": "force_update"
