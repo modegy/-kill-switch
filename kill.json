@@ -14,15 +14,7 @@
     }
   ],
   "blocked_users": [],
-  "user_messages": [
-    {
-      "name": "اسماعيل",
-      "package": "com.arammeem.android.apps.driver",
-      "msg_title": "تنويه ⚠️",
-      "msg_text": "سيتم إطلاق تحديث جديد يدعم اللغة العربيه اليوم .كن مستعدا",
-      "msg_type": "dialog"
-    }
-  ],
+  "user_messages": [],
   "message": {
     "enabled": false,
     "title": "",
