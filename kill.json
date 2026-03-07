@@ -18,6 +18,11 @@
       "name": "اسماعيل",
       "package": "com.arammeem.android.apps.driver",
       "action": "force_update"
+    },
+    {
+      "name": "السوري",
+      "package": "com.arammeem.android.apps.driver",
+      "action": "force_update"
     }
   ],
   "user_messages": [],
