@@ -13,10 +13,16 @@
       "min_version": 28915
     }
   ],
-  "blocked_users": [],
+  "blocked_users": [
+    {
+      "name": "اسماعيل",
+      "package": "com.arammeem.android.apps.driver",
+      "action": "force_update"
+    }
+  ],
   "user_messages": [],
   "message": {
-    "enabled": true,
+    "enabled": false,
     "title": "تنويه ⚠️",
     "text": "سيتم اطلاق اصدار جديد يدعم اللغة العربيه اليوم\n . كن مستعدا .",
     "type": "dialog"
