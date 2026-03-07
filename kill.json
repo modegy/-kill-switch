@@ -1,1 +1,24 @@
-{}
+{
+  "required_signature": "6544A340583BADC79724B87782E02494DDDDA6B73D4931437209F34D9FC3C755",
+  "action_url": "https://t.me/M_552",
+  "welcome": {
+    "enabled": false,
+    "text": "مرحباً بعودتك! 👋"
+  },
+  "apps": [
+    {
+      "package": "com.arammeem.android.apps.driver",
+      "app_enabled": true,
+      "force_update": false,
+      "min_version": 28915
+    }
+  ],
+  "blocked_users": [],
+  "user_messages": [],
+  "message": {
+    "enabled": true,
+    "title": "تنويه ⚠️",
+    "text": "سيتم اطلاق اصدار جديد يدعم اللغة العربيه اليوم\n . كن مستعدا .",
+    "type": "dialog"
+  }
+}
