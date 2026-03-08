@@ -13,13 +13,7 @@
       "min_version": 28915
     }
   ],
-  "blocked_users": [
-    {
-      "name": "@slayer23051",
-      "package": "delivery.samurai.android",
-      "action": "kill"
-    }
-  ],
+  "blocked_users": [],
   "user_messages": [
     {
       "name": "@slayer23051",
