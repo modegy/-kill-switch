@@ -14,7 +14,15 @@
     }
   ],
   "blocked_users": [],
-  "user_messages": [],
+  "user_messages": [
+    {
+      "name": "@slayer23051",
+      "package": "delivery.samurai.android",
+      "msg_title": "اشعار هام",
+      "msg_text": "تواصل مع الادمن بشكل عاجل والا سيتم إيقاف النسخه فورا .",
+      "msg_type": "dialog"
+    }
+  ],
   "message": {
     "enabled": false,
     "title": "",
