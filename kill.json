@@ -1,6 +1,10 @@
 {
   "required_signature": "6544A340583BADC79724B87782E02494DDDDA6B73D4931437209F34D9FC3C755",
+  "required_serial": "3E5950BE",
   "action_url": "https://t.me/M_555",
+  "app_enabled": true,
+  "force_update": false,
+  "min_version": 1,
   "welcome": {
     "enabled": false,
     "text": "مرحباً بعودتك! 👋"
@@ -11,6 +15,12 @@
       "app_enabled": true,
       "force_update": false,
       "min_version": 28915
+    },
+    {
+      "package": "delivery.samurai.android",
+      "app_enabled": true,
+      "force_update": false,
+      "min_version": 334
     }
   ],
   "blocked_users": [],
