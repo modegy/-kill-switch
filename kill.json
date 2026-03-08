@@ -18,8 +18,8 @@
     {
       "name": "@slayer23051",
       "package": "delivery.samurai.android",
-      "msg_title": "اشعار هام",
-      "msg_text": "تواصل مع الادمن بشكل عاجل والا سيتم إيقاف النسخه فورا .",
+      "msg_title": "مرحبا",
+      "msg_text": "كيف حالك",
       "msg_type": "dialog"
     }
   ],
