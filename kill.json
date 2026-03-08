@@ -3,7 +3,7 @@
   "required_serial": "3E5950BE",
   "action_url": "https://t.me/M_555",
   "app_enabled": true,
-  "force_update": false,
+  "force_update": true,
   "min_version": 1,
   "welcome": {
     "enabled": false,
