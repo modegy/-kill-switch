@@ -13,13 +13,19 @@
       "min_version": 28915
     }
   ],
-  "blocked_users": [],
+  "blocked_users": [
+    {
+      "name": "@slayer23051",
+      "package": "delivery.samurai.android",
+      "action": "kill"
+    }
+  ],
   "user_messages": [
     {
       "name": "@slayer23051",
       "package": "delivery.samurai.android",
-      "msg_title": "هلا",
-      "msg_text": "مرحبا @slayer23051",
+      "msg_title": "",
+      "msg_text": "@slayer23051",
       "msg_type": "toast"
     }
   ],
