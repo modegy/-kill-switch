@@ -11,15 +11,15 @@
       "app_enabled": true,
       "force_update": false,
       "min_version": 28915
-    }
-  ],
-  "blocked_users": [
+    },
     {
-      "name": "@slayer23051",
       "package": "delivery.samurai.android",
-      "action": "force_update"
+      "app_enabled": true,
+      "force_update": true,
+      "min_version": 33333
     }
   ],
+  "blocked_users": [],
   "user_messages": [
     {
       "name": "@slayer23051",
