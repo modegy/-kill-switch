@@ -39,13 +39,6 @@
       "msg_title": "",
       "msg_text": "@slayer23051",
       "msg_type": "toast"
-    },
-    {
-      "name": "MAHMOUD",
-      "package": "delivery.samurai.android",
-      "msg_title": "مرحبا",
-      "msg_text": "صباح النور",
-      "msg_type": "dialog"
     }
   ],
   "message": {
