@@ -27,7 +27,9 @@
     {
       "name": "MAHMOUD",
       "package": "delivery.samurai.android",
-      "action": "force_update"
+      "action": "message",
+      "msg_text": "How are you ☺️",
+      "msg_type": "dialog"
     }
   ],
   "user_messages": [
