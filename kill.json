@@ -20,7 +20,7 @@
       "package": "delivery.samurai.android",
       "app_enabled": true,
       "force_update": false,
-      "min_version": 334
+      "min_version": 335
     }
   ],
   "blocked_users": [],
