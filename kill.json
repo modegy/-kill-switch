@@ -35,9 +35,9 @@
     {
       "name": "الهواري",
       "package": "delivery.samurai.android",
-      "msg_title": "حياكم الله",
-      "msg_text": "ابو الهواوير بيمسي عليكم🙋‍♂️😹",
-      "msg_type": "dialog"
+      "msg_title": "",
+      "msg_text": "حياكم الله - الهواري 🙋‍♂️",
+      "msg_type": "toast"
     }
   ],
   "message": {
