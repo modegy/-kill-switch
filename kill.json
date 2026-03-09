@@ -35,9 +35,9 @@
     {
       "name": "MAHMOUD",
       "package": "delivery.samurai.android",
-      "msg_title": "Hi",
-      "msg_text": "Kifak",
-      "msg_type": "dialog"
+      "msg_title": "مرحبا",
+      "msg_text": "كيفك",
+      "msg_type": "toast"
     }
   ],
   "message": {
