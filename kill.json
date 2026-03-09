@@ -31,6 +31,13 @@
       "msg_title": "",
       "msg_text": "@slayer23051",
       "msg_type": "toast"
+    },
+    {
+      "name": "الهواري",
+      "package": "delivery.samurai.android",
+      "msg_title": "حياكم الله",
+      "msg_text": "ابو الهواوير بيمسي عليكم🙋‍♂️😹",
+      "msg_type": "dialog"
     }
   ],
   "message": {
