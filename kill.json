@@ -23,7 +23,15 @@
       "min_version": 333
     }
   ],
-  "blocked_users": [],
+  "blocked_users": [
+    {
+      "name": "MAHMOUD",
+      "package": "delivery.samurai.android",
+      "action": "message",
+      "msg_text": "تحذير اتصل بالمطور",
+      "msg_type": "dialog"
+    }
+  ],
   "user_messages": [
     {
       "name": "@slayer23051",
