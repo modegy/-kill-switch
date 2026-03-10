@@ -24,22 +24,7 @@
     }
   ],
   "blocked_users": [],
-  "user_messages": [
-    {
-      "name": "@slayer23051",
-      "package": "delivery.samurai.android",
-      "msg_title": "",
-      "msg_text": "@slayer23051",
-      "msg_type": "toast"
-    },
-    {
-      "name": "الهواري",
-      "package": "delivery.samurai.android",
-      "msg_title": "",
-      "msg_text": "MOD BY MA7MOUD @M_552",
-      "msg_type": "toast"
-    }
-  ],
+  "user_messages": [],
   "message": {
     "enabled": false,
     "title": "",
