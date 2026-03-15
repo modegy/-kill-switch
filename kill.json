@@ -26,11 +26,11 @@
   "blocked_users": [],
   "user_messages": [
     {
-      "name": "الهواري",
-      "package": "com.thechefz.drivers",
-      "msg_title": "مرحبا",
-      "msg_text": "كيف حالكم",
-      "msg_type": "dialog"
+      "name": "اسماعيل",
+      "package": "com.arammeem.android.apps.driver",
+      "msg_title": "",
+      "msg_text": "مرحبا 🙋‍♂️🙋‍♂️🙋‍♂️",
+      "msg_type": "toast"
     }
   ],
   "message": {
