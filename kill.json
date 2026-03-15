@@ -15,6 +15,18 @@
       "app_enabled": true,
       "force_update": false,
       "min_version": 333
+    },
+    {
+      "package": "com.thechefz.drivers",
+      "app_enabled": true,
+      "force_update": false,
+      "min_version": 194
+    },
+    {
+      "package": "com.arammeem.android.apps.driver",
+      "app_enabled": true,
+      "force_update": false,
+      "min_version": 28915
     }
   ],
   "blocked_users": [],
