@@ -11,12 +11,6 @@
   },
   "apps": [
     {
-      "package": "com.arammeem.android.apps.driver",
-      "app_enabled": true,
-      "force_update": false,
-      "min_version": 28915
-    },
-    {
       "package": "delivery.samurai.android",
       "app_enabled": true,
       "force_update": false,
