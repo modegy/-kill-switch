@@ -21,12 +21,6 @@
       "app_enabled": true,
       "force_update": false,
       "min_version": 28915
-    },
-    {
-      "package": "com.thechefz.drivers",
-      "app_enabled": false,
-      "force_update": true,
-      "min_version": 9000
     }
   ],
   "blocked_users": [
