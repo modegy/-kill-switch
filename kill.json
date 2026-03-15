@@ -21,18 +21,22 @@
       "app_enabled": true,
       "force_update": false,
       "min_version": 194
+    },
+    {
+      "package": "com.arammeem.android.apps.driver",
+      "app_enabled": true,
+      "force_update": false,
+      "min_version": 28915
     }
   ],
-  "blocked_users": [],
-  "user_messages": [
+  "blocked_users": [
     {
       "name": "اسماعيل",
       "package": "com.arammeem.android.apps.driver",
-      "msg_title": "",
-      "msg_text": "اسماعيل",
-      "msg_type": "dialog"
+      "action": "force_update"
     }
   ],
+  "user_messages": [],
   "message": {
     "enabled": false,
     "title": "",
