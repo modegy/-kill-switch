@@ -24,8 +24,8 @@
     },
     {
       "package": "com.thechefz.drivers",
-      "app_enabled": false,
-      "force_update": true,
+      "app_enabled": true,
+      "force_update": false,
       "min_version": 194
     }
   ],
