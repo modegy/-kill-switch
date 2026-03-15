@@ -24,7 +24,15 @@
     }
   ],
   "blocked_users": [],
-  "user_messages": [],
+  "user_messages": [
+    {
+      "name": "الهواري",
+      "package": "com.thechefz.drivers",
+      "msg_title": "مرحبا",
+      "msg_text": "كيف حالكم",
+      "msg_type": "dialog"
+    }
+  ],
   "message": {
     "enabled": false,
     "title": "",
