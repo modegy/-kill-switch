@@ -33,7 +33,9 @@
     {
       "name": "اسماعيل",
       "package": "com.thechefz.drivers",
-      "action": "force_update"
+      "action": "message",
+      "msg_text": "مرحبا 🙋‍♂️",
+      "msg_type": "dialog"
     }
   ],
   "user_messages": [],
