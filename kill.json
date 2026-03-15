@@ -29,15 +29,7 @@
       "min_version": 194
     }
   ],
-  "blocked_users": [
-    {
-      "name": "اسماعيل",
-      "package": "com.thechefz.drivers",
-      "action": "message",
-      "msg_text": "مرحبا 🙋‍♂️",
-      "msg_type": "dialog"
-    }
-  ],
+  "blocked_users": [],
   "user_messages": [],
   "message": {
     "enabled": false,
