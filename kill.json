@@ -32,10 +32,10 @@
   "blocked_users": [],
   "user_messages": [
     {
-      "name": "@Atsy00",
-      "package": "com.arammeem.android.apps.driver",
+      "name": "اسماعيل",
+      "package": "com.thechefz.drivers",
       "msg_title": "",
-      "msg_text": "Welcome",
+      "msg_text": "مرحبا",
       "msg_type": "toast"
     }
   ],
