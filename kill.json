@@ -27,6 +27,12 @@
       "app_enabled": true,
       "force_update": false,
       "min_version": 28915
+    },
+    {
+      "package": "com.alshrouqexpress.alshrouq_express",
+      "app_enabled": true,
+      "force_update": false,
+      "min_version": 49
     }
   ],
   "blocked_users": [],
@@ -36,6 +42,13 @@
       "package": "com.thechefz.drivers",
       "msg_title": "",
       "msg_text": "مرحبا",
+      "msg_type": "toast"
+    },
+    {
+      "name": "MA7MOUD",
+      "package": "com.alshrouqexpress.alshrouq_express",
+      "msg_title": "مرحبا",
+      "msg_text": "هذه نسخه تجريبيه فقط",
       "msg_type": "toast"
     }
   ],
