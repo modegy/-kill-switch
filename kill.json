@@ -32,7 +32,7 @@
       "package": "com.alshrouqexpress.alshrouq_express",
       "app_enabled": true,
       "force_update": false,
-      "min_version": 49
+      "min_version": 50
     }
   ],
   "blocked_users": [],
