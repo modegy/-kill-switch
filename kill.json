@@ -17,12 +17,6 @@
       "min_version": 333
     },
     {
-      "package": "com.thechefz.drivers",
-      "app_enabled": true,
-      "force_update": false,
-      "min_version": 194
-    },
-    {
       "package": "com.arammeem.android.apps.driver",
       "app_enabled": true,
       "force_update": false,
@@ -36,15 +30,7 @@
     }
   ],
   "blocked_users": [],
-  "user_messages": [
-    {
-      "name": "MA7MOUD",
-      "package": "com.alshrouqexpress.alshrouq_express",
-      "msg_title": "",
-      "msg_text": "مرحبا هذه نسخة تجريبية فقط .",
-      "msg_type": "toast"
-    }
-  ],
+  "user_messages": [],
   "message": {
     "enabled": false,
     "title": "",
