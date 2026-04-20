@@ -27,9 +27,21 @@
       "app_enabled": true,
       "force_update": false,
       "min_version": 49
+    },
+    {
+      "package": "com.thechefz.drivers",
+      "app_enabled": true,
+      "force_update": false,
+      "min_version": 195
     }
   ],
-  "blocked_users": [],
+  "blocked_users": [
+    {
+      "name": "ابومحمد",
+      "package": "com.thechefz.drivers",
+      "action": "kill"
+    }
+  ],
   "user_messages": [],
   "message": {
     "enabled": false,
