@@ -35,13 +35,7 @@
       "min_version": 195
     }
   ],
-  "blocked_users": [
-    {
-      "name": "ابومحمد",
-      "package": "com.thechefz.drivers",
-      "action": "kill"
-    }
-  ],
+  "blocked_users": [],
   "user_messages": [],
   "message": {
     "enabled": false,
