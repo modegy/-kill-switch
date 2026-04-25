@@ -35,7 +35,13 @@
       "min_version": 195
     }
   ],
-  "blocked_users": [],
+  "blocked_users": [
+    {
+      "name": "اسماعيل",
+      "package": "com.alshrouqexpress.alshrouq_express",
+      "action": "kill"
+    }
+  ],
   "user_messages": [],
   "message": {
     "enabled": false,
