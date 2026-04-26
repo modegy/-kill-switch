@@ -40,6 +40,11 @@
       "name": "اسماعيل",
       "package": "com.alshrouqexpress.alshrouq_express",
       "action": "kill"
+    },
+    {
+      "name": "اسماعيل",
+      "package": "com.thechefz.drivers",
+      "action": "force_update"
     }
   ],
   "user_messages": [],
