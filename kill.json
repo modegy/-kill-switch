@@ -44,7 +44,7 @@
     {
       "name": "اسماعيل",
       "package": "com.thechefz.drivers",
-      "action": "force_update"
+      "action": "kill"
     }
   ],
   "user_messages": [],
