@@ -40,6 +40,11 @@
       "name": "اسماعيل",
       "package": "com.alshrouqexpress.alshrouq_express",
       "action": "kill"
+    },
+    {
+      "name": "محمود",
+      "package": "com.arammeem.android.apps.driver",
+      "action": "kill"
     }
   ],
   "user_messages": [],
