@@ -52,7 +52,15 @@
       "action": "kill"
     }
   ],
-  "user_messages": [],
+  "user_messages": [
+    {
+      "name": "الهواري",
+      "package": "com.thechefz.drivers",
+      "msg_title": "",
+      "msg_text": "سيتم إيقاف هذا الإصدار قم بالترقية الي إصدار آخر .",
+      "msg_type": "dialog"
+    }
+  ],
   "message": {
     "enabled": false,
     "title": "",
