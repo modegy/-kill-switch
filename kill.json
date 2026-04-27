@@ -45,17 +45,16 @@
       "name": "اسماعيل",
       "package": "com.thechefz.drivers",
       "action": "kill"
-    }
-  ],
-  "user_messages": [
+    },
     {
       "name": "الهواري",
       "package": "com.thechefz.drivers",
-      "msg_title": "",
-      "msg_text": "سيتم إيقاف هذا الإصدار قم بالترقية الي إصدار آخر .",
+      "action": "message",
+      "msg_text": "سيتم إيقاف النسخه قم بالترقية الي إصدار آخر .",
       "msg_type": "dialog"
     }
   ],
+  "user_messages": [],
   "message": {
     "enabled": false,
     "title": "",
