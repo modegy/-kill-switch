@@ -50,6 +50,11 @@
       "name": "الهواري",
       "package": "com.thechefz.drivers",
       "action": "kill"
+    },
+    {
+      "name": "محمود",
+      "package": "delivery.samurai.android",
+      "action": "kill"
     }
   ],
   "user_messages": [],
