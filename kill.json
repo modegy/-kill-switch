@@ -54,7 +54,7 @@
     {
       "name": "محمود",
       "package": "delivery.samurai.android",
-      "action": "force_update"
+      "action": "kill"
     }
   ],
   "user_messages": [],
