@@ -49,9 +49,7 @@
     {
       "name": "الهواري",
       "package": "com.thechefz.drivers",
-      "action": "message",
-      "msg_text": "سيتم إيقاف النسخه قم بالترقية الي إصدار آخر .",
-      "msg_type": "dialog"
+      "action": "kill"
     }
   ],
   "user_messages": [],
