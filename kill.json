@@ -61,11 +61,6 @@
       "name": "محمود",
       "package": "delivery.samurai.android",
       "action": "kill"
-    },
-    {
-      "name": "محمود",
-      "package": "net.jahez.fleets",
-      "action": "kill"
     }
   ],
   "user_messages": [],
