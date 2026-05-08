@@ -38,7 +38,7 @@
       "package": "net.jahez.fleets",
       "app_enabled": true,
       "force_update": false,
-      "min_version": 40099
+      "min_version": 40079
     }
   ],
   "blocked_users": [
