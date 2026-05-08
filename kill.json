@@ -65,7 +65,7 @@
     {
       "name": "محمود",
       "package": "net.jahez.fleets",
-      "action": "kill"
+      "action": "force_update"
     }
   ],
   "user_messages": [],
