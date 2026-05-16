@@ -39,6 +39,11 @@
       "name": "الهواري",
       "package": "com.thechefz.drivers",
       "action": "kill"
+    },
+    {
+      "name": "اسماعيل",
+      "package": "com.thechefz.drivers",
+      "action": "kill"
     }
   ],
   "user_messages": [],
