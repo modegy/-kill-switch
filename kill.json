@@ -34,6 +34,11 @@
       "name": "اسماعيل",
       "package": "com.alshrouqexpress.alshrouq_express",
       "action": "kill"
+    },
+    {
+      "name": "الهواري",
+      "package": "com.thechefz.drivers",
+      "action": "kill"
     }
   ],
   "user_messages": [],
